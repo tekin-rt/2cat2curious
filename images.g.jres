@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA8P///wAAAABfVVVVDwAA8FVERFT1AABfVVVVVVUPAF9UVVVVVA8AX1RVVVVUDwBfVFVVVVQPAF9UVVVVVA8AX1RVVVVUDwBfVVVVVVUPAPBVRERU9QAAAF9VVVUPAAAA8P///wAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "coin"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////DwAAAPBVRFT1AAAAX0VUVFUPAABfRVVEVQ8AAF9EVUVVDwAAX0RVRVUPAABfRVVFVQ8AAF9FVUVVDwAAX0VERFUPAADwVVVV9QAAAAD///8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "coinn"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
